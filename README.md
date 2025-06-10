@@ -1,3 +1,4 @@
+OVERVIEW :-
 This is a straightforward yet effective student management system, designed as a desktop application for a school project. The system leverages the JDBC (Java Database Connectivity) driver and incorporates the Java Swing framework, particularly the JFrame class, to create a user-friendly graphical interface.
 
 
